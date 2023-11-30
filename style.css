@@ -29,7 +29,7 @@ body {
     animation: nomes 20s infinite;
 }
 
-/* @keyframes nomes {
+@keyframes nomes {
     0%,20%{
         content: "INFAMOUS";
     }
@@ -44,7 +44,7 @@ body {
     }
     81%,100% {
         content: url("denji.jpg");
-    } */
+    } 
 }
 
 .main__subtitulo {
